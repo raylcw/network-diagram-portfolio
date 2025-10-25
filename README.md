@@ -1,7 +1,7 @@
 # Network Diagram Portfolio Example
 
 This repository contains a sample small business network diagram created in Microsoft Visio.  
-The documentation includes a PDF export and all relevant asset legends.
+The documentation includes a PDF export, editable Visio (.vsdx), and all relevant asset legends.
 
 ## Features
 - Standardized naming conventions
